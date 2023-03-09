@@ -1,0 +1,38 @@
+header{
+	background-color: #FF0000;
+	width: 100%;
+	height: 200px;
+}
+footer{
+	background-color: #0000FF;
+	width: 100%;
+	height: 200px;
+}
+th { background-color: white; }
+td { width:100px; height:40px; border:1px solid #333; }
+td.a { background-color:red; color:grey; }
+td.b { background-color:blue; }
+td.c { background-color:purple; }
+td.d { background-color:green; }
+}
+table tr#ROW1  {background-color:red; color:white;}
+table tr#ROW2  {background-color:white;}
+table tr#ROW3  {background-color:blue; color:white;}
+
+table td#CELL1 {background-color:#C71585;}
+table td#CELL2 {background-color:#8B0000;}
+table td#CELL3 {background-color:#FF4500;}
+table td#CELL4 {background-color:#BDB76B;}
+table td#CELL5 {background-color:#A52A2A;}
+table td#CELL6 {background-color:#006400;}
+table td#CELL7 {background-color:#006080;}
+table td#CELL8 {background-color:#0000B0;}
+table td#CELL9 {background-color:#4B0082;}
+table td#CELL10 {background-color:#FFE4E1;}
+table td#CELL11 {background-color:#000000;}
+table td#CELL12 {background-color:#FF1493;}
+table td#CELL13 {background-color:#008000;}
+table td#CELL14 {background-color:#800080;}
+table td#CELL15 {background-color:#FFFAFA;}
+table td#CELL16 {background-color:#00FFFF;}
+
